@@ -1,0 +1,36 @@
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\Searchservice.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\Searchservice.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\Searchservice.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\Searchservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\bin\Debug\netcoreapp2.1\Searchservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\SearchService\obj\Debug\netcoreapp2.1\Searchservice.genruntimeconfig.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\Searchservice.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\Searchservice.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\Searchservice.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\Searchservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\bin\Debug\netcoreapp2.1\Searchservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\SearchService\obj\Debug\netcoreapp2.1\Searchservice.genruntimeconfig.cache

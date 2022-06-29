@@ -1,0 +1,34 @@
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\Configuration.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.genruntimeconfig.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\Configuration.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\bin\Debug\netcoreapp2.1\WebApplication1Microservices.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\WebApplication1Microservices\obj\Debug\netcoreapp2.1\WebApplication1Microservices.genruntimeconfig.cache

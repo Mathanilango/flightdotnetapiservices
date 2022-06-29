@@ -1,0 +1,36 @@
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.genruntimeconfig.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.deps.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.runtimeconfig.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.runtimeconfig.dev.json
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\bin\Debug\netcoreapp2.1\Loginservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.csproj.AssemblyReference.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.AssemblyInfoInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.AssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorAssemblyInfo.cs
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.dll
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.pdb
+C:\Users\cogdotnet906\source\repos\WebApplication1Microservices - Copy\Loginservice\obj\Debug\netcoreapp2.1\Loginservice.genruntimeconfig.cache
